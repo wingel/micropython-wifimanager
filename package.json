@@ -1,7 +1,7 @@
 {
    "urls": [
        [ "wifi_manager/__init__.py", "github:wingel/micropython-wifimanager/wifi_manager/__init__.py" ],
-       [ "wifi_manager/metadata.txt", "github:wingel/micropython-wifimanager/wifi_manager/metaadata.txt" ],
+       [ "wifi_manager/metadata.txt", "github:wingel/micropython-wifimanager/wifi_manager/metadata.txt" ],
        [ "wifi_manager/setup.py", "github:wingel/micropython-wifimanager/wifi_manager/setup.py" ],
        [ "wifi_manager/wifi_manager.py", "github:wingel/micropython-wifimanager/wifi_manager/wifi_manager.py" ]
   ],
